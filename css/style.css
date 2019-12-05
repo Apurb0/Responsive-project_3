@@ -1,0 +1,552 @@
+/* Author
+
+Name:Apurbo Sarkar;
+Mail:apurbouiu5@gmail.com;
+
+*/
+
+/*
+
+****Index*****
+
+1. Header
+2. Fusce at
+3. Facilisis
+4. Ante donec
+5. Blandit rhoncus
+6. Placerat
+7. Footer
+
+
+*/
+
+/*Global CSS*/
+
+body{
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h1{
+   color: silver;
+   font-size: 4vw;
+   text-align: center;
+   margin-top: 10%;
+}
+
+h2{
+  color: #fff;
+  font-size: 30px;
+}
+
+h3{
+    
+    
+}
+
+h4{
+	/*color: #ffff;*/
+	color: silver;
+	font-size: 22px;
+	text-align: center;
+}
+
+h5{
+   padding: 4%;
+   font-size: 22px;
+}
+
+h6{
+	color: #fff;
+	font-size: 18px;
+
+}
+
+p{
+    color: #161616;
+	font-size: 18px;
+}
+
+.btn{
+
+}
+
+.img-center{
+	display: block;
+	margin: 0 auto;
+}
+
+.no-padding{
+	padding: 0px;
+}
+
+.btn-one{
+	background-color: #9BC311;
+	color: #fff;
+	padding: 11px 40px;
+	border-radius: 20px;
+	display: block;
+	margin: 10% auto 2%;
+	border: none;
+}
+
+.btn_3{
+	background-color: #27A6D4;
+	color: #fff;
+	padding: 11px 40px;
+	border-radius: 20px;
+	display: block;
+	margin: 10% auto 2%;
+	border: none;
+}
+
+.btn_4{
+	background-color: #B1D23E;
+	color: #fff;
+	padding: 11px 40px;
+	border-radius: 20px;
+	display: block;
+	margin: 10% auto 2%;
+	border: none;
+}
+/*Theme css*/
+
+/*header section start*/
+
+header{
+
+}
+
+.nav-head{
+	background-color: #fff!important;
+	padding: 35px 0px;
+}
+
+.nav-item{
+	margin: 0px 5px;
+}
+
+
+.nav-link{
+	/*color: #161616!important;*/
+}
+
+
+.navbar-toggler{
+	background-color: silver;
+}
+
+
+/*header section End*/
+
+
+/*hero section start*/
+
+.hero{
+	background: url(../img/icrowdme-PSD---cssauthor.png)no-repeat top center;
+   
+	background-size: cover;
+
+ 
+ }
+
+
+
+
+/*hero section end*/
+
+
+
+/* bg section start*/
+
+
+
+.bg{
+	background-color: #fff;
+}
+
+.title_1{
+	padding-top: 15%;
+ 	padding-bottom: 2%;
+}
+
+.title_2{
+	padding-top: 15%;
+ 	padding-bottom: 2%;
+}
+
+
+.title_3{
+	padding-top: 15%;
+ 	padding-bottom: 2%;
+}
+
+
+
+
+.btn-two{
+	background-color: #fff;
+	color: #612316;
+	padding: 11px 40px;
+	border-radius: 20px;
+	display: block;
+	margin: 10% auto 5%;
+	border: none;
+}
+
+
+
+/* bg section end*/
+
+
+
+ /*contact-us section start*/
+
+
+
+.properties {
+	background: #e2f8ff;
+    padding: 80px 0;
+    padding-left: 120px;
+    padding-right: 10px;
+}
+
+.properties p {
+	text-align: left;
+}
+
+.buyer {
+	background-color: #f5f9eb;
+	padding: 80px 0;
+	padding-right: 120px;
+}
+
+.buyer p {
+	text-align: left;
+}
+
+.btn-buyer{
+	background: #add136;
+}
+
+
+.contact-us{
+	background: url(../img/Panakeia_template-Symu_co_footer.png);
+}
+
+.form-control{
+	display: block;
+	width: 100%;
+	height: calc(1.5em + .75rem + 2px);
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #495057;
+	background-color: #fff;
+	background-clip: padding-box;
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+	transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+	border-radius: 26px;
+	padding: 19px;
+	background: transparent;
+	position: relative;
+}
+
+.btn-three{
+	background: #fff;
+	padding: 10px 71px;
+	border: none;
+	border-radius: 26px;
+	color: darkred;
+	position: absolute;
+	top: 60%;
+	right: 0;
+}
+
+input::placeholder{
+	color: #fff!important;
+}
+ /*contact-us section end*/
+
+
+
+
+/*view section start*/
+
+
+.blog {
+	padding: 100px 0;
+}
+
+.blog p {
+	text-align: left;
+}
+
+.btn_5{
+	background-color: #ffff;
+	margin: 0 auto;
+	display: block;
+	border: 3px solid #d6d6d6;
+	color: #a2a2a2;
+}
+
+
+.btn-four{
+	background-color: #DB4B2D;
+	color: #fff;
+	padding: 11px 40px;
+	border-radius: 20px;
+	display: block;
+	border: none;
+}
+
+.btn-five{
+	background-color: #4D546E;
+	color: #fff;
+	padding: 11px 40px;
+	border-radius: 20px;
+	display: block;
+	border: none;
+}
+
+.head{
+   margin-top: 8%;
+}
+
+.tell{
+	margin-top: 10%;
+}
+
+.tell_img{
+	margin-top: 4%;
+}
+
+.blog {
+	padding: 100px 0;
+}
+
+.blog p {
+	text-align: left;
+}
+
+.btn-blog {
+	background-color: #ffff;
+	margin: 0 auto;
+	display: block;
+	border: 3px solid #d6d6d6;
+	color: #a2a2a2;
+}
+
+
+
+/*view section end*/
+
+
+
+/*placerat_info section start*/
+.placerat_info{
+	background-color: #fff;
+	
+}
+
+
+.btn-cstm{
+	background:#18A9D8;
+	 position: absolute;
+	padding: 6px 46px;
+	margin-top:59%;
+	margin-left:45%; 
+	border: 1px solid #fff;
+	color: #fff;
+	text-transform: uppercase;
+
+}
+
+.card-text{
+   
+
+	border-bottom: 4px solid silver; 
+}
+
+
+/*placerat_info section end*/
+
+
+/*footer section start*/
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .footer_main {
+    padding: 0px 0px 50px 0px;
+  }
+}
+
+.footer-right p,
+.footer_middle p {
+  font-family: montserrat;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+ul.footer_list {
+  list-style: none;
+  padding-left: 0px;
+}
+ul.footer_list li {
+  color: rgba(0, 0, 0, 0.5);
+  line-height: 1.6;
+  font-weight: 500;
+}
+
+ul.footer_list li.phone {
+  font-size: 22px;
+    color: rgba(0, 0, 0, 1);
+}
+
+ul.footer_list li a {
+  color: rgba(0, 0, 0, 0.5);
+  font-weight: 500;
+  text-transform: none;
+}
+ul.footer_list a:hover {
+  color: rgba(54, 204, 142, 1);
+  text-decoration: none;
+  list-style: none;
+}
+
+.footer_middle h4, .footer-right h4 {
+  font-family: montserrat;
+  font-size: 24px;
+}
+
+
+.footer_middle {
+  text-align: center;
+  padding: 0;
+}
+
+.footer-right h4, .footer-left h4 {
+  font-family: montserrat;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#hero-cta-email {
+  height: 50px;
+  width: 60%;
+}
+
+.hero-cta__form input {
+  width: 100%;
+  float: left;
+  border: none;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding-left: 15px;
+  font-size: 16px;
+  line-height: 18px;
+  height: 18px;
+  font-family: raleway;
+  font-weight: 400;
+  opacity: 1;
+  display: block;
+  margin-top: 10px;
+}
+
+.hero-cta__form input:focus {
+  outline: none;
+}
+
+.emailsignup {
+  font-family: montserrat;
+  font-size: 16px;
+  margin-left: 15px;
+  height: 50px;
+  width: 30%;
+  border: none;
+  background-color: #36cc8e;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 50px;
+  margin-top: 10px;
+}
+
+.trustlogos {
+  content: url(https://www.authenticireland.com/wp-content/uploads/2018/04/TopTrust1.png);
+  margin: 10px auto;
+  max-width: 100%;
+}
+
+.footer_trust_top {
+  width: 100%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.footer_trust_top p {
+  font-family: montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  color: rgb(0, 0, 0, 0.5);
+}
+
+  .footer-left {
+    padding-left: 0px;
+    justify-content: flex-start;
+  }
+  .footer-right {
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+.footer_main {
+  margin: 20px 0px 20px 0px;
+}
+
+
+.footer_copyright p {
+  font-size: 12px;
+  color: rgb(0,0,0,0.5);
+padding-top: 20px;
+}
+
+.footer__partners img {
+  float: right;
+  margin: 10px auto;
+  max-width: 100%;
+}
+
+
+
+/*footer section end*/
+
+
+
+
+ /*Mobile Device*/
+@media (min-width: 0px) and (max-width: 500px){
+
+}
+
+/*Small Device*/
+
+@media (min-width: 500.01px) and (max-width: 768px){
+
+}
+
+/*Medium Device*/
+
+@media (min-width: 768.01px) and (max-width: 1140px){
+
+}
+
+/*Large Device*/
+
+@media (min-width: 1200.01px){
+
+}
+
+
